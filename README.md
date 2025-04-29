@@ -43,7 +43,7 @@ cd chatbot
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate      # or venv\Scripts\activate on Windows
+source venv/bin/activate     
 pip install -r requirements.txt
 python app.py
 ```
@@ -66,7 +66,6 @@ Ensure your Gemini API key is valid in `app.py`. The backend runs on `localhost:
 
 - Chatbot with personality (answers in casual Telugu tone)
 - Gemini AI integration
-- Auto-scroll chat UI
 - Custom UI with animated typing and design font
 - Frontend-backend communication with Axios and CORS
 
