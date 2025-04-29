@@ -13,28 +13,5 @@ A full-stack conversational chatbot built with **React + Vite** (frontend) and *
 - 🎯 Flask backend with prompt engineering and context memory
 - 💅 Smooth UX with typing indicator and scrollbar customization
 
----
-
-## 🖥️ Project Structure
-
-Chatbot/
-├── backend/                     # Main Flask app with Gemini integration
-│   ├── app.py                   
-│   └── requirements.txt         
-│
-│
-├── frontend/                    # React + Vite frontend
-│   ├── public/                  
-│   ├── src/                    
-│   │   ├── Chat.jsx           
-│   │   ├── index.css            
-│   │   └── main.jsx             
-│   ├── .gitignore               
-│   ├── index.html               
-│   ├── package.json             
-│   └── vite.config.js            
-│
-├── .gitignore                   
-└── README.md                    
 
 
