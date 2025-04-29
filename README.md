@@ -34,7 +34,7 @@ Chatbot/
 │   ├── package.json             
 │   └── vite.config.js            
 │
-├── .gitignore                   # Top-level .gitignore (optional)
-└── README.md                    # Top-level README for the entire project
+├── .gitignore                   
+└── README.md                    
 
 
