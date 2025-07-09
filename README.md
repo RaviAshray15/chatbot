@@ -50,6 +50,7 @@ python app.py
 
 ### 3. Setup Frontend (React + Vite)
 
+
 ```bash
 cd frontend
 npm install
