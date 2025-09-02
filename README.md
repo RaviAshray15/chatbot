@@ -1,4 +1,4 @@
-# 🧠 Chatbot – React + Flask + Gemini AI
+# Chatbot – React + Flask + Gemini AI
 
 This is a full-stack chatbot web app built with **React + Vite** on the frontend and **Flask** on the backend. It integrates with **Google Gemini AI** to provide conversational responses specifically about **Ravi Ashray**, with a casual and Telugu-infused personality.
 
@@ -29,7 +29,7 @@ Chatbot/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
