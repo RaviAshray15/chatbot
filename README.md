@@ -4,7 +4,7 @@ This is a full-stack chatbot web app built with **React + Vite** on the frontend
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Chatbot/
